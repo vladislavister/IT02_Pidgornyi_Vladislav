@@ -8,6 +8,7 @@ namespace BlackJack
     {
         static void Main(string[] args)
         {
+            
             int j;
  
             for (j = 1000; j > 0;)
