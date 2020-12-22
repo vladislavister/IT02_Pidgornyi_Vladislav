@@ -1,0 +1,13 @@
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\bin\Debug\netcoreapp3.1\Black_Jack.exe
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\bin\Debug\netcoreapp3.1\Black_Jack.deps.json
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\bin\Debug\netcoreapp3.1\Black_Jack.runtimeconfig.json
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\bin\Debug\netcoreapp3.1\Black_Jack.runtimeconfig.dev.json
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\bin\Debug\netcoreapp3.1\Black_Jack.dll
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\bin\Debug\netcoreapp3.1\Black_Jack.pdb
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\obj\Debug\netcoreapp3.1\Black_Jack.csprojAssemblyReference.cache
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\obj\Debug\netcoreapp3.1\Black_Jack.AssemblyInfoInputs.cache
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\obj\Debug\netcoreapp3.1\Black_Jack.AssemblyInfo.cs
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\obj\Debug\netcoreapp3.1\Black_Jack.csproj.CoreCompileInputs.cache
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\obj\Debug\netcoreapp3.1\Black_Jack.dll
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\obj\Debug\netcoreapp3.1\Black_Jack.pdb
+D:\УЧЁБА\Основы программирования\Black_Jack\Black_Jack\obj\Debug\netcoreapp3.1\Black_Jack.genruntimeconfig.cache
